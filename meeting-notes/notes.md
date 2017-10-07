@@ -32,13 +32,15 @@ Preparation before next discussion (09/23)
 #### Parts discussed today:
 1. (World Cartogram): energy consumption > (Continent thematic map) : energy type
 2. (Country) : energy type
--- Non-renewable resource
----- Nuclear
--- Renewable resource
----- Solar
----- Wind
----- Hydro
+- Non-renewable resource
+- Nuclear
+- Renewable resource
+- Solar
+- Wind
+- Hydro
+
 Compare the proportion of each type in total energy production and consumption > piechart
+
 3. (optional) timeline
 
 #### Tasks:
