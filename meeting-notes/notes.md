@@ -11,6 +11,8 @@ http://data.un.org/Data.aspx?q=population&d=PopDiv&f=variableID%3a12
 
 ***
 
+### Note on 09.16 Discussion Summary
+
 Preparation before next discussion (09/23)
 
 1. collect related index datasets (on UNdata?)
@@ -33,11 +35,11 @@ Preparation before next discussion (09/23)
 1. (World Cartogram): energy consumption > (Continent thematic map) : energy type
 2. (Country) : energy type
 - Non-renewable resource
-- Nuclear
+  - Nuclear
 - Renewable resource
-- Solar
-- Wind
-- Hydro
+  - Solar
+  - Wind
+  - Hydro
 
 Compare the proportion of each type in total energy production and consumption > piechart
 
