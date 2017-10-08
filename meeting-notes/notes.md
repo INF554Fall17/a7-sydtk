@@ -1,7 +1,7 @@
 # INF 554 project idea
 
 ## Global energy statistic
-The data is from BP company and contains all energy type from 1950 to 2016. 
+The data is from BP company and contains all energy type from 1950 to 2016.
 Here is the statistic resource:
 http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html
 
@@ -49,3 +49,30 @@ Compare the proportion of each type in total energy production and consumption >
 - Data collection and organization -> I-Hui Huang(@ihuihuan)
 - Cartograph -> Yi Chen(@chen310)
 - Piechart -> Ching-Ju Hsieh(@chingju)
+
+---
+
+### Note on 10.07 Discussion Summary
+
+#### Some Presentation Questions Answered
+Discussion on project pitch
+
+Lead with 10 words on why you chose this project
+- Figure out how energy consumption affect human's life
+
+Why is your project interesting?
+- In this project, we do not only show energy data, but compare them with multiple kinds of social indicators and analyze them as well.
+
+Who is the audience?
+- Potential Audience: Policy makers, NGO members , anyone who is interested in environmental issues.
+
+Why is your visualization important?
+- Our visualization could give policy makers or NGO members some trend and relationship so that they could set up their action or create a new policy.
+
+How is your visualization useful?
+- Our visualization will make the comparison of temporal and spatial relations easier on both global scale and by country, facilitating the audience to locating the key issues.
+
+What are you telling with your visualization? What is the story?
+- What are you telling: the comparison between social indicators (e.g. GDP, Life Expectancy, etc) and energy data in different countries
+
+- Stories: How significantly the energy (non-renewable energy/renewable energy) affects a country's national capabilities and citizen's living standard.
