@@ -76,3 +76,52 @@ What are you telling with your visualization? What is the story?
 - What are you telling: the comparison between social indicators (e.g. GDP, Life Expectancy, etc) and energy data in different countries
 
 - Stories: How significantly the energy (non-renewable energy/renewable energy) affects a country's national capabilities and citizen's living standard.
+
+---
+
+### Note on 10.08 Discussion Summary
+
+#### Other Questions Answered
+
+How do you plan to use interactive visuals?
+1. Use Choropleth/Cartogram to show spatial distribution pattern in different scale, various kinds of charts (piechart, linechart) to show the information within a certain country/region/continent.
+2. interactions to switch the spatial scales (between map and cartogram)
+3. interactions between map objects and charts
+4. do spatial query to filter spatial information
+
+What are your design considerations?
+- We consider providing friendly UI, intuitive color and layout chosen to let users focus on core information,  and follow the critique rules from Cairo to review our visualization
+
+What are the components that make your visualization cool?
+- Interactions between map and charts
+- Dynamically changed color themes in choropleth map
+
+How does your visualization compare to what others have done?
+- Most of visualization just lists the energy consumption during a period of time. But we are more focus on these energy consumption has any influence or relation on human lifes.
+
+What are the technologies you plan to use?
+- webDev: Bootstrap(UI), AngularJS
+- visualization: D3(chart), leaflet(map)
+- backend: ArcGIS online
+
+How are you going to design, build, and evaluate?
+- design: make up blueprint for the visualization, polish it through several weekly meetings.
+- build: set up development environment, gradually implement components in our blueprint.
+- evaluate: test every components to see if it work. invite people to use it and give out feedback
+
+What are your deliverables?
+- Working demo
+- Video
+- Paper
+- Presentation
+
+How do you work together?
+- Visualization
+    - interactive map: @chen310
+    - charts and graphs (energy alone): @ihuihuan
+    - charts and graphs (comparison between energy and social indicators): @chingju
+- Data Cleaning & User Survey: @ihuihuan
+- Web Layout: @chen310 @chingju
+
+What is your timeline?
+- Followed the timeline Prof. recommended.
