@@ -74,3 +74,26 @@
     - charts and graphs (comparison between energy and social indicators): @chingju
 - Data Cleaning & User Survey: @ihuihuan
 - Web Layout: @chen310 @chingju
+
+
+
+#### Data Source
+
+**Energy Data :** 
+
+BP Statistical Review of World Energy June 2017
+
+https://www.bp.com/content/dam/bp/en/corporate/excel/energy-economics/statistical-review-2017/bp-statistical-review-of-world-energy-2017-underpinning-data.xlsx
+
+**Social Indicators:**
+
+UNData
+
+http://data.un.org/
+
+UNDP (United Nations Development Programme)
+
+http://www.undp.org/content/undp/en/home.html
+
+
+
