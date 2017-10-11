@@ -79,7 +79,7 @@
 
 #### Data Source
 
-**Energy Data :** 
+**Energy Data :**
 
 BP Statistical Review of World Energy June 2017
 
@@ -95,5 +95,12 @@ UNDP (United Nations Development Programme)
 
 http://www.undp.org/content/undp/en/home.html
 
+**Image Resource:**
 
+Flaticon
 
+https://www.flaticon.com
+
+Iconfinder
+
+https://www.iconfinder.com/
